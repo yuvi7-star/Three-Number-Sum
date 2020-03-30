@@ -6,8 +6,6 @@ class TestThreeNumSum {
 	 }
 }
 
-
-
 class ThreeNumSum {
 	public static void main(String[] args) {
 		int addition = TestThreeNumSum.threeNumSum(20,30,50);
